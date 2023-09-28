@@ -102,10 +102,10 @@ The base layer is maintained as separate tables for tap alphas, tap thumbs, and 
 **** Hold
 
 #+NAME: hold
-| BOOT     | DF(U_TAP) | DF(U_EXTRA) | DF(U_BASE) |         |        | DF(U_BASE) | DF(U_EXTRA) | DF(U_TAP) | BOOT     |
-| LGUI     | LALT      | LCTL        | LSFT       | CPSWRD  | CPSWRD | LSFT       | LCTL        | LALT      | LGUI     |
-| U_BUTTON | ALGR      | LOCK_OPP    | LOCK_CUR   |         |        | LOCK_CUR   | LOCK_OPP    | ALGR      | U_BUTTON |
-| U_NP     | U_NP      | U_MEDIA     | U_NAV      | U_MOUSE | U_SYM  | U_NUM      | U_FUN       | U_NP      | U_NP     |
+| BOOT     | DF(U_TAP) | DF(U_EXTRA) | DF(U_BASE) |        |        | DF(U_BASE) | DF(U_EXTRA) | DF(U_TAP) | BOOT     |
+| LGUI     | LALT      | LCTL        | LSFT       | CPSWRD | CPSWRD | LSFT       | LCTL        | LALT      | LGUI     |
+| U_BUTTON | ALGR      | LOCK_OPP    | LOCK_CUR   |        |        | LOCK_CUR   | LOCK_OPP    | ALGR      | U_BUTTON |
+| U_NP     | U_NP      | U_MEDIA     | U_MOUSE    | U_NAV  | U_SYM  | U_NUM      | U_FUN       | U_NP      | U_NP     |
 
 
 *** Nav
@@ -355,10 +355,10 @@ Not available with ~MIRYOKU_LAYERS=FLIP~.
 ****** Hold
 
 #+NAME: hold-flip
-| BOOT     | DF(U_TAP) | DF(U_EXTRA) | DF(U_BASE) |        |         | DF(U_BASE) | DF(U_EXTRA) | DF(U_TAP) | BOOT     |
-| LGUI     | LALT      | LCTL        | LSFT       | CPSWRD | CPSWRD  | LSFT       | LCTL        | LALT      | LGUI     |
-| U_BUTTON | ALGR      | LOCK_OPP    | LOCK_CUR   |        |         | LOCK_CUR   | LOCK_OPP    | ALGR      | U_BUTTON |
-| U_NP     | U_NP      | U_FUN       | U_NUM      | U_SYM  | U_MOUSE | U_NAV      | U_MEDIA     | U_NP      | U_NP     |
+| BOOT     | DF(U_TAP) | DF(U_EXTRA) | DF(U_BASE) |        |        | DF(U_BASE) | DF(U_EXTRA) | DF(U_TAP) | BOOT     |
+| LGUI     | LALT      | LCTL        | LSFT       | CPSWRD | CPSWRD | LSFT       | LCTL        | LALT      | LGUI     |
+| U_BUTTON | ALGR      | LOCK_OPP    | LOCK_CUR   |        |        | LOCK_CUR   | LOCK_OPP    | ALGR      | U_BUTTON |
+| U_NP     | U_NP      | U_FUN       | U_NUM      | U_SYM  | U_NAV  | U_MOUSE    | U_MEDIA     | U_NP      | U_NP     |
 
 
 ****** Num

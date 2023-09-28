@@ -10,121 +10,121 @@
 KC.A,              KC.Z,              KC.E,              KC.R,              KC.T,              KC.Y,              KC.U,              KC.I,              KC.O,              KC.P,              \
 U_MT(KC.Q,KC.LGUI),U_MT(KC.S,KC.LALT),U_MT(KC.D,KC.LCTL),U_MT(KC.F,KC.LSFT),KC.G,              KC.H,              U_MT(KC.J,KC.LSFT),U_MT(KC.K,KC.LCTL),U_MT(KC.L,KC.LALT),U_MT(KC.M,KC.LGUI),\
 U_LT(U_BUTTON,KC.W),U_MT(KC.X,KC.RALT),KC.C,              KC.V,              KC.B,              KC.N,              KC.COMM,           KC.DOT,            U_MT(KC.SLSH,KC.RALT),U_LT(U_BUTTON,KC.SCLN),\
-U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_MOUSE,KC.SPC),U_LT(U_NAV,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_NAV,KC.SPC),U_LT(U_MOUSE,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_BEAKL15_FLIP \
 KC.Q,              KC.H,              KC.O,              KC.U,              KC.X,              KC.G,              KC.C,              KC.R,              KC.F,              KC.Z,              \
 U_MT(KC.Y,KC.LGUI),U_MT(KC.I,KC.LALT),U_MT(KC.E,KC.LCTL),U_MT(KC.A,KC.LSFT),KC.DOT,            KC.D,              U_MT(KC.S,KC.LSFT),U_MT(KC.T,KC.LCTL),U_MT(KC.N,KC.LALT),U_MT(KC.B,KC.LGUI),\
 U_LT(U_BUTTON,KC.J),U_MT(KC.SLSH,KC.RALT),KC.COMM,           KC.K,              KC.SCLN,           KC.W,              KC.M,              KC.L,              U_MT(KC.P,KC.RALT),U_LT(U_BUTTON,KC.V),\
-U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_MOUSE,KC.SPC),U_LT(U_NAV,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_NAV,KC.SPC),U_LT(U_MOUSE,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_COLEMAK_FLIP \
 KC.Q,              KC.W,              KC.F,              KC.P,              KC.G,              KC.J,              KC.L,              KC.U,              KC.Y,              KC.SCLN,           \
 U_MT(KC.A,KC.LGUI),U_MT(KC.R,KC.LALT),U_MT(KC.S,KC.LCTL),U_MT(KC.T,KC.LSFT),KC.D,              KC.H,              U_MT(KC.N,KC.LSFT),U_MT(KC.E,KC.LCTL),U_MT(KC.I,KC.LALT),U_MT(KC.O,KC.LGUI),\
 U_LT(U_BUTTON,KC.Z),U_MT(KC.X,KC.RALT),KC.C,              KC.V,              KC.B,              KC.K,              KC.M,              KC.COMM,           U_MT(KC.DOT,KC.RALT),U_LT(U_BUTTON,KC.SLSH),\
-U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_MOUSE,KC.SPC),U_LT(U_NAV,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_NAV,KC.SPC),U_LT(U_MOUSE,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_COLEMAKDH_FLIP \
 KC.Q,              KC.W,              KC.F,              KC.P,              KC.B,              KC.J,              KC.L,              KC.U,              KC.Y,              KC.SCLN,           \
 U_MT(KC.A,KC.LGUI),U_MT(KC.R,KC.LALT),U_MT(KC.S,KC.LCTL),U_MT(KC.T,KC.LSFT),KC.G,              KC.M,              U_MT(KC.N,KC.LSFT),U_MT(KC.E,KC.LCTL),U_MT(KC.I,KC.LALT),U_MT(KC.O,KC.LGUI),\
 U_LT(U_BUTTON,KC.Z),U_MT(KC.X,KC.RALT),KC.C,              KC.D,              KC.V,              KC.K,              KC.H,              KC.COMM,           U_MT(KC.DOT,KC.RALT),U_LT(U_BUTTON,KC.SLSH),\
-U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_MOUSE,KC.SPC),U_LT(U_NAV,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_NAV,KC.SPC),U_LT(U_MOUSE,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_COLEMAKDHK_FLIP \
 KC.Q,              KC.W,              KC.F,              KC.P,              KC.B,              KC.J,              KC.L,              KC.U,              KC.Y,              KC.SCLN,           \
 U_MT(KC.A,KC.LGUI),U_MT(KC.R,KC.LALT),U_MT(KC.S,KC.LCTL),U_MT(KC.T,KC.LSFT),KC.G,              KC.K,              U_MT(KC.N,KC.LSFT),U_MT(KC.E,KC.LCTL),U_MT(KC.I,KC.LALT),U_MT(KC.O,KC.LGUI),\
 U_LT(U_BUTTON,KC.Z),U_MT(KC.X,KC.RALT),KC.C,              KC.D,              KC.V,              KC.M,              KC.H,              KC.COMM,           U_MT(KC.DOT,KC.RALT),U_LT(U_BUTTON,KC.SLSH),\
-U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_MOUSE,KC.SPC),U_LT(U_NAV,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_NAV,KC.SPC),U_LT(U_MOUSE,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_DVORAK_FLIP \
 KC.SCLN,           KC.COMM,           KC.DOT,            KC.P,              KC.Y,              KC.F,              KC.G,              KC.C,              KC.R,              KC.L,              \
 U_MT(KC.A,KC.LGUI),U_MT(KC.O,KC.LALT),U_MT(KC.E,KC.LCTL),U_MT(KC.U,KC.LSFT),KC.I,              KC.D,              U_MT(KC.H,KC.LSFT),U_MT(KC.T,KC.LCTL),U_MT(KC.N,KC.LALT),U_MT(KC.S,KC.LGUI),\
 U_LT(U_BUTTON,KC.SLSH),U_MT(KC.Q,KC.RALT),KC.J,              KC.K,              KC.X,              KC.B,              KC.M,              KC.W,              U_MT(KC.V,KC.RALT),U_LT(U_BUTTON,KC.Z),\
-U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_MOUSE,KC.SPC),U_LT(U_NAV,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_NAV,KC.SPC),U_LT(U_MOUSE,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_HALMAK_FLIP \
 KC.W,              KC.L,              KC.R,              KC.B,              KC.Z,              KC.SCLN,           KC.Q,              KC.U,              KC.D,              KC.J,              \
 U_MT(KC.S,KC.LGUI),U_MT(KC.H,KC.LALT),U_MT(KC.N,KC.LCTL),U_MT(KC.T,KC.LSFT),KC.COMM,           KC.DOT,            U_MT(KC.A,KC.LSFT),U_MT(KC.E,KC.LCTL),U_MT(KC.O,KC.LALT),U_MT(KC.I,KC.LGUI),\
 U_LT(U_BUTTON,KC.F),U_MT(KC.M,KC.RALT),KC.V,              KC.C,              KC.SLSH,           KC.G,              KC.P,              KC.X,              U_MT(KC.K,KC.RALT),U_LT(U_BUTTON,KC.Y),\
-U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_MOUSE,KC.SPC),U_LT(U_NAV,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_NAV,KC.SPC),U_LT(U_MOUSE,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_WORKMAN_FLIP \
 KC.Q,              KC.D,              KC.R,              KC.W,              KC.B,              KC.J,              KC.F,              KC.U,              KC.P,              KC.SCLN,           \
 U_MT(KC.A,KC.LGUI),U_MT(KC.S,KC.LALT),U_MT(KC.H,KC.LCTL),U_MT(KC.T,KC.LSFT),KC.G,              KC.Y,              U_MT(KC.N,KC.LSFT),U_MT(KC.E,KC.LCTL),U_MT(KC.O,KC.LALT),U_MT(KC.I,KC.LGUI),\
 U_LT(U_BUTTON,KC.Z),U_MT(KC.X,KC.RALT),KC.M,              KC.C,              KC.V,              KC.K,              KC.L,              KC.COMM,           U_MT(KC.DOT,KC.RALT),U_LT(U_BUTTON,KC.SLSH),\
-U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_MOUSE,KC.SPC),U_LT(U_NAV,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_NAV,KC.SPC),U_LT(U_MOUSE,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_QWERTY_FLIP \
 KC.Q,              KC.W,              KC.E,              KC.R,              KC.T,              KC.Y,              KC.U,              KC.I,              KC.O,              KC.P,              \
 U_MT(KC.A,KC.LGUI),U_MT(KC.S,KC.LALT),U_MT(KC.D,KC.LCTL),U_MT(KC.F,KC.LSFT),KC.G,              KC.H,              U_MT(KC.J,KC.LSFT),U_MT(KC.K,KC.LCTL),U_MT(KC.L,KC.LALT),U_MT(KC.SCLN,KC.LGUI),\
 U_LT(U_BUTTON,KC.Z),U_MT(KC.X,KC.RALT),KC.C,              KC.V,              KC.B,              KC.N,              KC.M,              KC.COMM,           U_MT(KC.DOT,KC.RALT),U_LT(U_BUTTON,KC.SLSH),\
-U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_MOUSE,KC.SPC),U_LT(U_NAV,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_NAV,KC.SPC),U_LT(U_MOUSE,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_QWERTZ_FLIP \
 KC.Q,              KC.W,              KC.E,              KC.R,              KC.T,              KC.Z,              KC.U,              KC.I,              KC.O,              KC.P,              \
 U_MT(KC.A,KC.LGUI),U_MT(KC.S,KC.LALT),U_MT(KC.D,KC.LCTL),U_MT(KC.F,KC.LSFT),KC.G,              KC.H,              U_MT(KC.J,KC.LSFT),U_MT(KC.K,KC.LCTL),U_MT(KC.L,KC.LALT),U_MT(KC.SCLN,KC.LGUI),\
 U_LT(U_BUTTON,KC.Y),U_MT(KC.X,KC.RALT),KC.C,              KC.V,              KC.B,              KC.N,              KC.M,              KC.COMM,           U_MT(KC.DOT,KC.RALT),U_LT(U_BUTTON,KC.SLSH),\
-U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_MOUSE,KC.SPC),U_LT(U_NAV,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_FUN,KC.DEL),U_LT(U_NUM,KC.ENT),U_LT(U_SYM,KC.BSPC),U_LT(U_NAV,KC.SPC),U_LT(U_MOUSE,KC.TAB),U_LT(U_MEDIA,KC.ESC),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_AZERTY \
 KC.A,              KC.Z,              KC.E,              KC.R,              KC.T,              KC.Y,              KC.U,              KC.I,              KC.O,              KC.P,              \
 U_MT(KC.Q,KC.LGUI),U_MT(KC.S,KC.LALT),U_MT(KC.D,KC.LCTL),U_MT(KC.F,KC.LSFT),KC.G,              KC.H,              U_MT(KC.J,KC.LSFT),U_MT(KC.K,KC.LCTL),U_MT(KC.L,KC.LALT),U_MT(KC.M,KC.LGUI),\
 U_LT(U_BUTTON,KC.W),U_MT(KC.X,KC.RALT),KC.C,              KC.V,              KC.B,              KC.N,              KC.COMM,           KC.DOT,            U_MT(KC.SLSH,KC.RALT),U_LT(U_BUTTON,KC.SCLN),\
-U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_NAV,KC.TAB),U_LT(U_MOUSE,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_MOUSE,KC.TAB),U_LT(U_NAV,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_BEAKL15 \
 KC.Q,              KC.H,              KC.O,              KC.U,              KC.X,              KC.G,              KC.C,              KC.R,              KC.F,              KC.Z,              \
 U_MT(KC.Y,KC.LGUI),U_MT(KC.I,KC.LALT),U_MT(KC.E,KC.LCTL),U_MT(KC.A,KC.LSFT),KC.DOT,            KC.D,              U_MT(KC.S,KC.LSFT),U_MT(KC.T,KC.LCTL),U_MT(KC.N,KC.LALT),U_MT(KC.B,KC.LGUI),\
 U_LT(U_BUTTON,KC.J),U_MT(KC.SLSH,KC.RALT),KC.COMM,           KC.K,              KC.SCLN,           KC.W,              KC.M,              KC.L,              U_MT(KC.P,KC.RALT),U_LT(U_BUTTON,KC.V),\
-U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_NAV,KC.TAB),U_LT(U_MOUSE,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_MOUSE,KC.TAB),U_LT(U_NAV,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_COLEMAK \
 KC.Q,              KC.W,              KC.F,              KC.P,              KC.G,              KC.J,              KC.L,              KC.U,              KC.Y,              KC.SCLN,           \
 U_MT(KC.A,KC.LGUI),U_MT(KC.R,KC.LALT),U_MT(KC.S,KC.LCTL),U_MT(KC.T,KC.LSFT),KC.D,              KC.H,              U_MT(KC.N,KC.LSFT),U_MT(KC.E,KC.LCTL),U_MT(KC.I,KC.LALT),U_MT(KC.O,KC.LGUI),\
 U_LT(U_BUTTON,KC.Z),U_MT(KC.X,KC.RALT),KC.C,              KC.V,              KC.B,              KC.K,              KC.M,              KC.COMM,           U_MT(KC.DOT,KC.RALT),U_LT(U_BUTTON,KC.SLSH),\
-U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_NAV,KC.TAB),U_LT(U_MOUSE,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_MOUSE,KC.TAB),U_LT(U_NAV,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_COLEMAKDH \
 KC.Q,              KC.W,              KC.F,              KC.P,              KC.B,              KC.J,              KC.L,              KC.U,              KC.Y,              KC.SCLN,           \
 U_MT(KC.A,KC.LGUI),U_MT(KC.R,KC.LALT),U_MT(KC.S,KC.LCTL),U_MT(KC.T,KC.LSFT),KC.G,              KC.M,              U_MT(KC.N,KC.LSFT),U_MT(KC.E,KC.LCTL),U_MT(KC.I,KC.LALT),U_MT(KC.O,KC.LGUI),\
 U_LT(U_BUTTON,KC.Z),U_MT(KC.X,KC.RALT),KC.C,              KC.D,              KC.V,              KC.K,              KC.H,              KC.COMM,           U_MT(KC.DOT,KC.RALT),U_LT(U_BUTTON,KC.SLSH),\
-U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_NAV,KC.TAB),U_LT(U_MOUSE,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_MOUSE,KC.TAB),U_LT(U_NAV,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_COLEMAKDHK \
 KC.Q,              KC.W,              KC.F,              KC.P,              KC.B,              KC.J,              KC.L,              KC.U,              KC.Y,              KC.SCLN,           \
 U_MT(KC.A,KC.LGUI),U_MT(KC.R,KC.LALT),U_MT(KC.S,KC.LCTL),U_MT(KC.T,KC.LSFT),KC.G,              KC.K,              U_MT(KC.N,KC.LSFT),U_MT(KC.E,KC.LCTL),U_MT(KC.I,KC.LALT),U_MT(KC.O,KC.LGUI),\
 U_LT(U_BUTTON,KC.Z),U_MT(KC.X,KC.RALT),KC.C,              KC.D,              KC.V,              KC.M,              KC.H,              KC.COMM,           U_MT(KC.DOT,KC.RALT),U_LT(U_BUTTON,KC.SLSH),\
-U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_NAV,KC.TAB),U_LT(U_MOUSE,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_MOUSE,KC.TAB),U_LT(U_NAV,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_DVORAK \
 KC.SCLN,           KC.COMM,           KC.DOT,            KC.P,              KC.Y,              KC.F,              KC.G,              KC.C,              KC.R,              KC.L,              \
 U_MT(KC.A,KC.LGUI),U_MT(KC.O,KC.LALT),U_MT(KC.E,KC.LCTL),U_MT(KC.U,KC.LSFT),KC.I,              KC.D,              U_MT(KC.H,KC.LSFT),U_MT(KC.T,KC.LCTL),U_MT(KC.N,KC.LALT),U_MT(KC.S,KC.LGUI),\
 U_LT(U_BUTTON,KC.SLSH),U_MT(KC.Q,KC.RALT),KC.J,              KC.K,              KC.X,              KC.B,              KC.M,              KC.W,              U_MT(KC.V,KC.RALT),U_LT(U_BUTTON,KC.Z),\
-U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_NAV,KC.TAB),U_LT(U_MOUSE,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_MOUSE,KC.TAB),U_LT(U_NAV,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_HALMAK \
 KC.W,              KC.L,              KC.R,              KC.B,              KC.Z,              KC.SCLN,           KC.Q,              KC.U,              KC.D,              KC.J,              \
 U_MT(KC.S,KC.LGUI),U_MT(KC.H,KC.LALT),U_MT(KC.N,KC.LCTL),U_MT(KC.T,KC.LSFT),KC.COMM,           KC.DOT,            U_MT(KC.A,KC.LSFT),U_MT(KC.E,KC.LCTL),U_MT(KC.O,KC.LALT),U_MT(KC.I,KC.LGUI),\
 U_LT(U_BUTTON,KC.F),U_MT(KC.M,KC.RALT),KC.V,              KC.C,              KC.SLSH,           KC.G,              KC.P,              KC.X,              U_MT(KC.K,KC.RALT),U_LT(U_BUTTON,KC.Y),\
-U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_NAV,KC.TAB),U_LT(U_MOUSE,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_MOUSE,KC.TAB),U_LT(U_NAV,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_WORKMAN \
 KC.Q,              KC.D,              KC.R,              KC.W,              KC.B,              KC.J,              KC.F,              KC.U,              KC.P,              KC.SCLN,           \
 U_MT(KC.A,KC.LGUI),U_MT(KC.S,KC.LALT),U_MT(KC.H,KC.LCTL),U_MT(KC.T,KC.LSFT),KC.G,              KC.Y,              U_MT(KC.N,KC.LSFT),U_MT(KC.E,KC.LCTL),U_MT(KC.O,KC.LALT),U_MT(KC.I,KC.LGUI),\
 U_LT(U_BUTTON,KC.Z),U_MT(KC.X,KC.RALT),KC.M,              KC.C,              KC.V,              KC.K,              KC.L,              KC.COMM,           U_MT(KC.DOT,KC.RALT),U_LT(U_BUTTON,KC.SLSH),\
-U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_NAV,KC.TAB),U_LT(U_MOUSE,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_MOUSE,KC.TAB),U_LT(U_NAV,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_QWERTY \
 KC.Q,              KC.W,              KC.E,              KC.R,              KC.T,              KC.Y,              KC.U,              KC.I,              KC.O,              KC.P,              \
 U_MT(KC.A,KC.LGUI),U_MT(KC.S,KC.LALT),U_MT(KC.D,KC.LCTL),U_MT(KC.F,KC.LSFT),KC.G,              KC.H,              U_MT(KC.J,KC.LSFT),U_MT(KC.K,KC.LCTL),U_MT(KC.L,KC.LALT),U_MT(KC.SCLN,KC.LGUI),\
 U_LT(U_BUTTON,KC.Z),U_MT(KC.X,KC.RALT),KC.C,              KC.V,              KC.B,              KC.N,              KC.M,              KC.COMM,           U_MT(KC.DOT,KC.RALT),U_LT(U_BUTTON,KC.SLSH),\
-U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_NAV,KC.TAB),U_LT(U_MOUSE,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_MOUSE,KC.TAB),U_LT(U_NAV,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_QWERTZ \
 KC.Q,              KC.W,              KC.E,              KC.R,              KC.T,              KC.Z,              KC.U,              KC.I,              KC.O,              KC.P,              \
 U_MT(KC.A,KC.LGUI),U_MT(KC.S,KC.LALT),U_MT(KC.D,KC.LCTL),U_MT(KC.F,KC.LSFT),KC.G,              KC.H,              U_MT(KC.J,KC.LSFT),U_MT(KC.K,KC.LCTL),U_MT(KC.L,KC.LALT),U_MT(KC.SCLN,KC.LGUI),\
 U_LT(U_BUTTON,KC.Y),U_MT(KC.X,KC.RALT),KC.C,              KC.V,              KC.B,              KC.N,              KC.M,              KC.COMM,           U_MT(KC.DOT,KC.RALT),U_LT(U_BUTTON,KC.SLSH),\
-U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_NAV,KC.TAB),U_LT(U_MOUSE,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_MOUSE,KC.TAB),U_LT(U_NAV,KC.SPC),U_LT(U_SYM,KC.BSPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
 
 
 #define MIRYOKU_ALTERNATIVES_TAP_AZERTY_FLIP \
